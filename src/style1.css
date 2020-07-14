@@ -1,0 +1,20 @@
+ body{
+    position: relative;
+    overflow-x: hidden;
+   min-width:1000px;        /* Suppose you want minimum width of 1000px */
+   width: auto !important;  /* Firefox will set width as auto */
+  }
+
+  .sb{
+    width: 500px;
+  }
+    .gr{
+      border-radius: 10px;
+      margin-top: 20px;
+      border-style: solid;
+}
+  .ts{
+    width: 300px;
+    margin-top: 11px;
+    margin-bottom: 20px;
+  }
